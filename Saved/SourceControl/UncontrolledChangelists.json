@@ -6,9 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/game_base.uasset",
-				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/player_hud.uasset",
 				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/player_hud_test.uasset",
-				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/Character_test.uasset"
+				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/Character_test.uasset",
+				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/rifle_blueprint.uasset",
+				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/weapon_base.uasset",
+				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/content/sound/footstep-1-83098.uasset",
+				"C:/Users/tauru/Desktop/projects_unreal/Game_FPS/Content/blueprints/player_hud.uasset"
 			]
 		}
 	]
